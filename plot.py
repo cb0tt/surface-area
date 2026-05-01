@@ -19,7 +19,7 @@ def plot(a, b, f, x, axis):
     elif axis.lower().strip() == 'y':
         xdim = xgrid* np.cos(thetas)
         ydim = fxgrid
-        zdim = fxgrid * np.sin(thetas)
+        zdim = xgrid * np.sin(thetas)
 
     fig = plt.figure()
     ax = fig.add_subplot(projection="3d")
