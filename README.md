@@ -4,6 +4,7 @@
 
 A Python calculator for finding the surface area generated when a curve is rotated around an axis. 
 Both python files and notebook files are provided.
+
 Given a curve:
 
 $$
