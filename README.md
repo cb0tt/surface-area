@@ -39,3 +39,12 @@ Built with
 - SymPy
 - NumPy
 - Matplotlib
+
+
+## How to run in google colab.
+
+1. Open google colab
+2. In the initial pop up menu, click upload.
+   Else, click file and upload notebook
+3. Run notebook
+   
